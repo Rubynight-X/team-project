@@ -8,7 +8,7 @@ This contract establishes the shared expectations, operational protocols, and mu
 ## 2. Team Norms and Expectations
 
 ### a) Communication
-* **Primary Communication Platform:** WeChat (dedicated private group chat named `CSC207-Team-[Number]`).
+* **Primary Communication Platform:** WeChat (dedicated private group chat named `CSC207-Team`).
 * **Response Latency Expectations (Observable & Measurable):**
   * **Daily Standard:** Every team member must acknowledge or respond to messages within **12 hours** at all times.
   * **Critical Submission Windows (within 48 hours of any course milestone):** Members must respond within **2 hours**.
