@@ -162,6 +162,6 @@ By signing below and approving the Pull Request that merges this file into `main
 
 | Full Legal Name | UTORid | GitHub Username | Date Signed |
 | :--- | :--- | :--- | :--- |
-| Kehan Li | likehan6 | @[github-handle-1] | 2026-09-29 |
+| Kehan Li | likehan6 | @[FWLightless] | 2026-09-29 |
 | [Tianle Duan] | [duantia7] | @[dtl915] | 2026-09-29 |
 | [Student 3 Full Name] | [utorid03] | @[github-handle-3] | 2026-09-29 |
