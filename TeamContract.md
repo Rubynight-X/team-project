@@ -162,7 +162,6 @@ By signing below and approving the Pull Request that merges this file into `main
 
 | Full Legal Name | UTORid | GitHub Username | Date Signed |
 | :--- | :--- | :--- | :--- |
-| [Student 1 Full Name] | [utorid01] | @[github-handle-1] | 2026-09-29 |
+| Kehan Li | likehan6 | @[github-handle-1] | 2026-09-29 |
 | [Student 2 Full Name] | [utorid02] | @[github-handle-2] | 2026-09-29 |
 | [Student 3 Full Name] | [utorid03] | @[github-handle-3] | 2026-09-29 |
-| [Student 4 Full Name] | [utorid04] | @[github-handle-4] | 2026-09-29 |
